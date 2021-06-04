@@ -32,3 +32,39 @@
 <h4> 7. Lihat hasil Proses backup berupa file di direktori penyimpanan folder SQL </h4>
 
 ![Screenshot_7](https://user-images.githubusercontent.com/83684167/120817342-d62f3780-c57b-11eb-93b4-1c824539e7e1.png)
+
+
+<h3> Restore menggunakan CMD </h3>
+
+<h4> 1. Pastikan anda sudah masuk ke penyimpanan folder SQL (sama seperti proses backup) </h4>
+
+
+<h4> 2. Untuk melakukan proses restore pastikan databases atau tabel yang di restore dengan memiliki nama yang sama (duplicate) </h4>
+
+<h4> 3. Untuk melakukan proses restore dengan menggunakan file yang telah kita backup sebelumnya </h4>
+
+<h4> 4. Hapus terlebih dahulu tabel tersebut </h4>
+
+![Screenshot_8](https://user-images.githubusercontent.com/83684167/120818659-03301a00-c57d-11eb-95ff-81e6d08ffa86.png)
+
+<h4> 5. Untuk memastikan bahwa tabel tersebut benar sudah terhapus </h4>
+
+![Screenshot_9](https://user-images.githubusercontent.com/83684167/120818915-3ffc1100-c57d-11eb-9e92-c497f57afeba.png)
+
+<h4> 6. Lakukuan proses restore dengan menggunakan perintah di bawah ini : </h4>
+
+![Screenshot_10](https://user-images.githubusercontent.com/83684167/120820115-725a3e00-c57e-11eb-97c1-dee8cec46b80.png)
+
+<h4> 7. Pastikan data yang telah di restore </h4>
+
+![Screenshot_11](https://user-images.githubusercontent.com/83684167/120820317-a03f8280-c57e-11eb-9cb3-78791fc1c529.png)
+
+
+<h3> Berikut Merupakan isi file Backup </h3>
+
+![Screenshot_12](https://user-images.githubusercontent.com/83684167/120820549-da108900-c57e-11eb-9e6d-8ab59f54bed6.png)
+
+
+
+
+
