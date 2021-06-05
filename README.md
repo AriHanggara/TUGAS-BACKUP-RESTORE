@@ -65,6 +65,25 @@
 ![Screenshot_12](https://user-images.githubusercontent.com/83684167/120820549-da108900-c57e-11eb-9e6d-8ab59f54bed6.png)
 
 
+<h2> Backup dan Restore menggunakan Mysql Dump </h2>
+
+<h3> Backup menggunakan Mysql Dump </h3>
+
+h4> 1. Pastikan anda sudah masuk ke penyimpanan folder SQL  </h4>
+
+h4> 2. Lakukan Proses Backup menggunakan script dibawah ini  </h4>
+
+![Screenshot_13](https://user-images.githubusercontent.com/83684167/120878616-dcf39400-c5e7-11eb-95f6-0cf61726d984.png)
+
+h4> 3. Setelah Proses berjalan dengan baik. Hasil Backup dan dilihat di direktori penyimpanan SQL </h4>
+
+![Screenshot_15](https://user-images.githubusercontent.com/83684167/120878671-20e69900-c5e8-11eb-80d7-4acfba301927.png)
 
 
+<h3> Restore menggunakan Mysql Dump </h3>
 
+h4> 1. Pastikan anda sudah masuk ke penyimpanan folder SQL  </h4>
+
+h4> 2. Lakukan Proses Restore menggunakan script dibawah ini  </h4>
+
+![Screenshot_14](https://user-images.githubusercontent.com/83684167/120878709-5f7c5380-c5e8-11eb-9ce6-a78840050683.png)
